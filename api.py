@@ -5,6 +5,8 @@ pytesseract.pytesseract.tesseract_cmd = "D:\\testOCR\\tesseract.exe"
 import numpy as np
 import io
 from PIL import Image
+import subprocess
+import json
 
 app = FastAPI()
 @app.post("/process_image")
@@ -21,5 +23,11 @@ async def process_image(file: UploadFile = File(...)):
             b = b.split()
             if len(b) == 12:
                 results += " ".join(b[11:]) + " "
+    with open('output_ocr.txt', 'w') as f:
+        f.write(results.strip())
 
-    return {"results": results.strip()}
+    subprocess.run(["python", "extract.py"], check=True)
+    with open('output_nlp.txt', 'r') as f:
+        lines = f.read().split('\n')
+    res = [json.loads(line) for line in lines if line]
+    return {"results": res}

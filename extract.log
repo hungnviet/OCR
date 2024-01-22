@@ -1,0 +1,322 @@
+2023-12-29 17:55:54,377 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 17:55:54,671 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:54,671 DEBUG:Requesting OCSP data
+2023-12-29 17:55:54,671 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:54,685 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:54,685 DEBUG:Requesting OCSP data
+2023-12-29 17:55:54,685 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:54,698 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:54,698 DEBUG:Requesting OCSP data
+2023-12-29 17:55:54,698 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:54,714 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 17:55:54,714 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 17:55:54,714 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 17:55:54,782 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 17:55:54,782 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 17:55:54,783 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 17:55:54,783 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 17:55:54,783 DEBUG:Verifying response
+2023-12-29 17:55:54,783 DEBUG:Verifying response
+2023-12-29 17:55:54,783 DEBUG:Responder is issuer
+2023-12-29 17:55:54,783 DEBUG:Responder is issuer
+2023-12-29 17:55:54,785 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 17:55:54,785 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 17:55:54,785 DEBUG:Verifying response
+2023-12-29 17:55:54,785 DEBUG:Responder is issuer
+2023-12-29 17:55:54,790 DEBUG:Caching OCSP response.
+2023-12-29 17:55:54,791 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:54,791 DEBUG:Caching OCSP response.
+2023-12-29 17:55:54,791 DEBUG:Caching OCSP response.
+2023-12-29 17:55:54,791 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:54,791 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:55,211 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:55,212 DEBUG:Requesting OCSP data
+2023-12-29 17:55:55,212 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:55,212 DEBUG:Using cached OCSP response.
+2023-12-29 17:55:55,212 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:55,253 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:55,253 DEBUG:Requesting OCSP data
+2023-12-29 17:55:55,253 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:55,253 DEBUG:Using cached OCSP response.
+2023-12-29 17:55:55,253 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:55,265 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:55,265 DEBUG:Requesting OCSP data
+2023-12-29 17:55:55,265 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:55,265 DEBUG:Using cached OCSP response.
+2023-12-29 17:55:55,266 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:55,269 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:55:55,270 DEBUG:Requesting OCSP data
+2023-12-29 17:55:55,270 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:55:55,270 DEBUG:Using cached OCSP response.
+2023-12-29 17:55:55,270 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:55:55,827 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 17:57:24,385 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 17:57:24,604 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:24,604 DEBUG:Requesting OCSP data
+2023-12-29 17:57:24,604 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:24,656 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 17:57:24,696 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:24,697 DEBUG:Requesting OCSP data
+2023-12-29 17:57:24,697 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:24,700 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 17:57:24,729 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:24,729 DEBUG:Requesting OCSP data
+2023-12-29 17:57:24,729 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:24,731 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 17:57:24,732 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 17:57:24,733 DEBUG:Verifying response
+2023-12-29 17:57:24,733 DEBUG:Responder is issuer
+2023-12-29 17:57:24,734 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 17:57:24,744 DEBUG:Caching OCSP response.
+2023-12-29 17:57:24,744 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:24,772 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 17:57:24,773 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 17:57:24,773 DEBUG:Verifying response
+2023-12-29 17:57:24,773 DEBUG:Responder is issuer
+2023-12-29 17:57:24,774 DEBUG:Caching OCSP response.
+2023-12-29 17:57:24,774 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:24,806 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 17:57:24,807 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 17:57:24,807 DEBUG:Verifying response
+2023-12-29 17:57:24,807 DEBUG:Responder is issuer
+2023-12-29 17:57:24,808 DEBUG:Caching OCSP response.
+2023-12-29 17:57:24,809 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:25,082 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:25,082 DEBUG:Requesting OCSP data
+2023-12-29 17:57:25,082 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:25,082 DEBUG:Using cached OCSP response.
+2023-12-29 17:57:25,082 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:25,172 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:25,172 DEBUG:Requesting OCSP data
+2023-12-29 17:57:25,172 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:25,172 DEBUG:Using cached OCSP response.
+2023-12-29 17:57:25,172 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:25,217 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:25,217 DEBUG:Requesting OCSP data
+2023-12-29 17:57:25,217 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:25,217 DEBUG:Using cached OCSP response.
+2023-12-29 17:57:25,217 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:25,260 DEBUG:Peer did not staple an OCSP response
+2023-12-29 17:57:25,260 DEBUG:Requesting OCSP data
+2023-12-29 17:57:25,261 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 17:57:25,261 DEBUG:Using cached OCSP response.
+2023-12-29 17:57:25,261 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 17:57:25,686 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 18:11:01,554 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 18:11:01,771 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:01,771 DEBUG:Requesting OCSP data
+2023-12-29 18:11:01,771 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:01,826 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:11:01,866 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:01,866 DEBUG:Requesting OCSP data
+2023-12-29 18:11:01,866 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:01,868 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:11:01,869 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:01,870 DEBUG:Requesting OCSP data
+2023-12-29 18:11:01,870 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:01,871 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:11:01,895 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:11:01,895 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:11:01,895 DEBUG:Verifying response
+2023-12-29 18:11:01,895 DEBUG:Responder is issuer
+2023-12-29 18:11:01,903 DEBUG:Caching OCSP response.
+2023-12-29 18:11:01,903 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:01,934 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:11:01,934 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:11:01,934 DEBUG:Verifying response
+2023-12-29 18:11:01,934 DEBUG:Responder is issuer
+2023-12-29 18:11:01,935 DEBUG:Caching OCSP response.
+2023-12-29 18:11:01,935 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:01,939 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:11:01,939 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:11:01,939 DEBUG:Verifying response
+2023-12-29 18:11:01,940 DEBUG:Responder is issuer
+2023-12-29 18:11:01,940 DEBUG:Caching OCSP response.
+2023-12-29 18:11:01,940 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:02,241 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:02,241 DEBUG:Requesting OCSP data
+2023-12-29 18:11:02,241 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:02,241 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:02,241 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:02,331 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:02,331 DEBUG:Requesting OCSP data
+2023-12-29 18:11:02,331 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:02,331 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:02,331 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:02,389 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:02,389 DEBUG:Requesting OCSP data
+2023-12-29 18:11:02,389 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:02,389 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:02,389 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:02,431 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:02,431 DEBUG:Requesting OCSP data
+2023-12-29 18:11:02,431 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:02,431 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:02,431 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:02,958 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 18:11:58,132 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 18:11:58,390 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:58,390 DEBUG:Requesting OCSP data
+2023-12-29 18:11:58,390 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:58,413 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:58,413 DEBUG:Requesting OCSP data
+2023-12-29 18:11:58,413 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:58,414 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:58,414 DEBUG:Requesting OCSP data
+2023-12-29 18:11:58,414 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:58,440 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:11:58,441 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:11:58,441 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:11:58,508 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:11:58,509 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:11:58,509 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:11:58,509 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:11:58,510 DEBUG:Verifying response
+2023-12-29 18:11:58,510 DEBUG:Verifying response
+2023-12-29 18:11:58,510 DEBUG:Responder is issuer
+2023-12-29 18:11:58,510 DEBUG:Responder is issuer
+2023-12-29 18:11:58,510 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:11:58,511 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:11:58,511 DEBUG:Verifying response
+2023-12-29 18:11:58,511 DEBUG:Responder is issuer
+2023-12-29 18:11:58,517 DEBUG:Caching OCSP response.
+2023-12-29 18:11:58,517 DEBUG:Caching OCSP response.
+2023-12-29 18:11:58,517 DEBUG:Caching OCSP response.
+2023-12-29 18:11:58,517 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:58,517 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:58,517 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:58,859 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:58,859 DEBUG:Requesting OCSP data
+2023-12-29 18:11:58,859 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:58,859 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:58,859 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:58,968 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:58,968 DEBUG:Requesting OCSP data
+2023-12-29 18:11:58,968 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:58,968 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:58,968 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:58,992 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:58,993 DEBUG:Requesting OCSP data
+2023-12-29 18:11:58,993 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:58,993 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:58,993 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:59,006 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:11:59,006 DEBUG:Requesting OCSP data
+2023-12-29 18:11:59,006 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:11:59,007 DEBUG:Using cached OCSP response.
+2023-12-29 18:11:59,007 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:11:59,513 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 18:12:46,948 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2023-12-29 18:12:47,241 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,241 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,241 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,254 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,254 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,254 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,256 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,256 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,256 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,292 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:12:47,292 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:12:47,292 DEBUG:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-12-29 18:12:47,361 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:12:47,362 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:12:47,363 DEBUG:Verifying response
+2023-12-29 18:12:47,363 DEBUG:Responder is issuer
+2023-12-29 18:12:47,364 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:12:47,365 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:12:47,365 DEBUG:Verifying response
+2023-12-29 18:12:47,365 DEBUG:Responder is issuer
+2023-12-29 18:12:47,367 DEBUG:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-12-29 18:12:47,367 DEBUG:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-12-29 18:12:47,367 DEBUG:Verifying response
+2023-12-29 18:12:47,367 DEBUG:Responder is issuer
+2023-12-29 18:12:47,373 DEBUG:Caching OCSP response.
+2023-12-29 18:12:47,373 DEBUG:Caching OCSP response.
+2023-12-29 18:12:47,373 DEBUG:Caching OCSP response.
+2023-12-29 18:12:47,373 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:47,373 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:47,373 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:47,716 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,717 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,717 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,717 DEBUG:Using cached OCSP response.
+2023-12-29 18:12:47,717 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:47,830 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,830 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,830 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,831 DEBUG:Using cached OCSP response.
+2023-12-29 18:12:47,831 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:47,864 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,865 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,865 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,865 DEBUG:Peer did not staple an OCSP response
+2023-12-29 18:12:47,866 DEBUG:Using cached OCSP response.
+2023-12-29 18:12:47,866 DEBUG:Requesting OCSP data
+2023-12-29 18:12:47,866 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:47,866 DEBUG:Trying http://r3.o.lencr.org
+2023-12-29 18:12:47,866 DEBUG:Using cached OCSP response.
+2023-12-29 18:12:47,866 DEBUG:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-12-29 18:12:48,436 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 20:32:00,165 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 20:32:00,660 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 20:36:08,552 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 20:36:09,222 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 21:46:53,329 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 21:46:53,909 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 21:47:48,249 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-02 21:47:48,731 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-08 06:49:42,098 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-08 06:49:42,703 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-08 07:15:46,473 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-08 07:15:47,098 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:06:28,597 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:06:29,043 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:10:48,962 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:10:49,360 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:13:53,127 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:13:53,526 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:18:24,486 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:18:24,966 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:19:30,990 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:19:31,514 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:22:10,336 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:22:10,780 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:37:10,747 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:37:11,237 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:51:03,374 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:51:03,785 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:54:04,234 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:54:05,411 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:55:53,512 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 10:55:53,994 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:00:35,846 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:00:36,307 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:02:35,384 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:02:35,830 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:24:34,265 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:24:34,744 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:26:28,619 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:26:29,038 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:32:27,758 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:32:28,209 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:34:05,191 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:34:05,663 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:35:33,189 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:35:33,652 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:37:47,908 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:37:48,569 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:40:26,698 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:40:27,113 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:50:49,531 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:50:50,176 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:54:06,405 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:54:06,794 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:58:25,478 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 11:58:25,982 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 12:00:40,053 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 12:00:40,504 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 12:02:19,164 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 12:02:19,602 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 12:02:50,533 INFO:Pinged your deployment. You successfully connected to MongoDB!
+2024-01-22 12:02:50,960 INFO:Pinged your deployment. You successfully connected to MongoDB!
